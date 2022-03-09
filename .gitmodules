@@ -1,0 +1,6 @@
+[submodule "Simple-Neural-Network"]
+	path = Simple-Neural-Network
+	url = https://github.com/Miden0/Simple-Neural-Network
+[submodule "Fish-classification"]
+	path = Fish-classification
+	url = https://github.com/Miden0/Fish-classification
